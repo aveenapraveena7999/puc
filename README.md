@@ -1,2 +1,3 @@
 # puc
 collage
+  school
